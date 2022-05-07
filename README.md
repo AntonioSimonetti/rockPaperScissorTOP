@@ -32,6 +32,6 @@ The benefits I got from this stage:**
 
 **Good things to look at:**
 
-The positive things that I bring with me from this project are different and have already been mentioned.
+- The positive things that I bring with me from this project are different and have already been mentioned.
 I thought I would have more problems with CSS and flexbox and instead they were the easiest and most fun part. 
 This gives me confidence for the future of my code training.
