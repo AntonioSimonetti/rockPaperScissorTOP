@@ -24,13 +24,13 @@ The benefits I got from this stage:**
 - Learned basic DOM manipulations and of elements styles through JavaScript code (setting attributes, adding/removing classes).
 - Improved my understanding of JavaScript functions (scopes, calling, invoking, breaking down into smaller ones..).
 
-**Improvements for the future ** 
+**Improvements for the future:** 
 
 - I will have to improve in several aspects, the first of all I have to use more functions to be called more times instead of rewriting them every time I need. 
 - I have to learn to comment on my code better and less. I think I have commented on it too much and in general my JS code is too messy at the moment.
 - I still have too much problem with git in CLI, luckly using UI on github saves me at the moment.
 
-**Good things to look at**
+**Good things to look at:**
 
 The positive things that I bring with me from this project are different and have already been mentioned.
 I thought I would have more problems with CSS and flexbox and instead they were the easiest and most fun part. 
