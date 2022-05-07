@@ -1,14 +1,15 @@
-*Project: Rock Paper Scissors*
-Simple implementation of Rock Paper Scissors game from The Odin Project curriculum.
+**Project: Rock Paper Scissors**
+
+*Simple implementation of Rock Paper Scissors game from The Odin Project curriculum.
 
 This is my first HTML/CSS/JS project. 
 
-First stage | Game in the browser console
+**First stage | Game in the browser console
 The benefits I got from this stage:
 
-Learned how functions work with each other.
-Improved my understanding on the scopes.
-Game in the browser console
+- Learned how functions work with each other.
+- Improved my understanding on the scopes.
+- Game in the browser console
 
 Second stage | Game with added UI
 The benefits I got from this stage:
