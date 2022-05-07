@@ -1,30 +1,30 @@
 **Project: Rock Paper Scissors**
 
-*Simple implementation of Rock Paper Scissors game from The Odin Project curriculum.
+*Simple implementation of Rock Paper Scissors game from The Odin Project curriculum.*
 
 This is my first HTML/CSS/JS project. 
 
 **First stage | Game in the browser console
-The benefits I got from this stage:
+The benefits I got from this stage:**
 
 - Learned how functions work with each other.
 - Improved my understanding on the scopes.
 - Game in the browser console
 
-Second stage | Game with added UI
-The benefits I got from this stage:
+**Second stage | Game with added UI
+The benefits I got from this stage:**
 
--CSS-
+*-CSS-*
 
-Learned to use and import other Font and favicon.
-Deepened knowledge of CSS. I did little bit  of animation and I have found that my flexbox bases are ok for now.
+- Learned to use and import other Font and favicon.
+- Deepened knowledge of CSS. I did little bit  of animation and I have found that my flexbox bases are ok for now.
 
--JS-
+*-JS-*
 
-Learned basic DOM manipulations and of elements styles through JavaScript code (setting attributes, adding/removing classes).
-Improved my understanding of JavaScript functions (scopes, calling, invoking, breaking down into smaller ones..).
+- Learned basic DOM manipulations and of elements styles through JavaScript code (setting attributes, adding/removing classes).
+- Improved my understanding of JavaScript functions (scopes, calling, invoking, breaking down into smaller ones..).
 
-Summary
+**Summary** 
 
 I will have to improve in several aspects, the first of all I have to use more functions to be called more times instead of rewriting them every time I need. 
 I have to learn to comment on my code better and less. I think I have commented on it too much and in general my JS code is too messy at the moment.
