@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tidy Hand';
+    src: url('TidyHand.woff2') format('woff2'),
+        url('TidyHand.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
