@@ -2,6 +2,8 @@
 
 *Simple implementation of Rock Paper Scissors game from The Odin Project curriculum.*
 
+LIVE VERSION: https://antoniosimonetti.github.io/rockPaperScissorTOP/
+
 This is my first HTML/CSS/JS project. 
 
 **First stage | Game in the browser console
